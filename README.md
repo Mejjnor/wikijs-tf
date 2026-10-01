@@ -1,4 +1,6 @@
-# Wiki.js Infrastructure Architecture - ECS Fargate Sandbox
+# Archived: Wiki.js Infrastructure Architecture - ECS Fargate Sandbox
+
+> **Note:** This repository is a historical, archived architecture sandbox exploring infrastructure patterns for containerized deployments on AWS ECS Fargate. It is preserved to demonstrate historical continuity and continuity of cloud engineering practices.
 
 This repository contains the infrastructure-as-code configuration for a high-availability deployment of Wiki.js on AWS using ECS Fargate. The project maps out the localized network decoupling, a managed PostgreSQL backend tier, and secure application routing profiles.
 
